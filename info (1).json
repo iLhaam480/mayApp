@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "31-03-2005 12:59 PM"
 },
+   "Sedortest": {
+   "password": "$2y$12$s7GvN8DoQ3g8BOxlxRtMZ.GOd4cKoL7XWI9YXmudwXD.wlkLyj7Bm",
+   "devices": ["ASUSI005D1B8544A127C07DCF"],
+   "expiry": "10-03-2025 5:59 PM"
+},
 }
