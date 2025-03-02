@@ -84,4 +84,9 @@
    "devices": ["REDMINOTE53BACB758E111DB34"],
    "expiry": "26-09-2025 12:00 PM"
 },
+   "ilhamo": {
+   "password": "$2y$12$j6XaDj3wzsoAz/1a9tV4NOh/TTrFbit4vPMJZxKWt7Ljnuzm5iHJW",
+   "devices": ["PIXEL55465F583DEF2018C"],
+   "expiry": "29-08-2025 12:00 PM"
+},
 }
