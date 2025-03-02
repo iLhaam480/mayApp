@@ -9,6 +9,11 @@
    "devices": ["MI-4C01600F6C0AE91EC9"],
    "expiry": "21-08-2025 12:00 PM"
 },
+   "sedor": {
+   "password": "$2y$12$5usU9hXbTV5uxWh6cPDdmuDDSw/vypqK.a2QlIrAws9tWPQEpIxzO",
+   "devices": ["MI-4C01600F6C0AE91EC9"],
+   "expiry": "23-10-2025 8:59 AM"
+},
    "ilhamo": {
    "password": "$2y$12$Lhq2y3by8V.XEccSfjO1fuZA4762J1.FHqg4kn15bgG4ubczeRb72",
    "devices": ["MI-4C01600F6C0AE91EC9"],
