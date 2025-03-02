@@ -24,4 +24,9 @@
    "devices": ["M2101K6G5465F583DEF2018C","MI5465F583DEF2018C","REDMI5465F583DEF2018C","M2006J10C5465F583DEF2018C"],
    "expiry": "21-03-2025 12:00 PM"
 },
+   "ilhamo": {
+   "password": "$2y$12$veLwiY3VuMWPkVqc58oynu1f/OzIF.BivhEKc0Zmy44E04WkjVlOa",
+   "devices": ["REDMI5465F583DEF2018C"],
+   "expiry": "21-03-2025 12:00 PM"
+},
 }
