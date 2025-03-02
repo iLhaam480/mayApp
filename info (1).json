@@ -5,6 +5,11 @@
    "expiry": "31-03-2005 12:59 PM"
 },
    "sedor": {
+   "password": "$2y$12$u8eTybGhB73pPTyqVfUiVeRcEZ3xvPtMSrsYQM81wvSsyQAuMV/.u",
+   "devices": ["REDMI01600F6C0AE91EC9","M2012K11AC01600F6C0AE91EC9"],
+   "expiry": "26-03-2025 11:59 PM"
+},
+   "sedor": {
    "password": "$2y$12$Ze1dHR9UvLbYhWtCyfsig.nQQFw9zY1FEuatYudURyz1nXY2iH8pi",
    "devices": ["REDMI01600F6C0AE91EC9"],
    "expiry": "23-10-2025 8:59 AM"
