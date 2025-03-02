@@ -14,4 +14,9 @@
    "devices": ["REDMINOTE59105EF9F3A85C538"],
    "expiry": "30-10-2025 1:59 PM"
 },
+   "sedorpart": {
+   "password": "$2y$12$zcc3izBjsTcXcFyaunb5oeI0M6rvMQioO7.umQ9tJQ5PFyhQqZQ3K",
+   "devices": ["REDMINOTE5E025AD61B47A8BA2","REDMINOTE59105EF9F3A85C538"],
+   "expiry": "30-10-2025 1:59 PM"
+},
 }
