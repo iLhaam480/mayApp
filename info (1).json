@@ -99,4 +99,9 @@
    "devices": ["JEHN5465F583DEF2018C"],
    "expiry": "29-08-2025 12:00 PM"
 },
+   "ilhamo": {
+   "password": "$2y$12$WPW9rtoqn8uXGwM/1gy55uGFidCcI92gV5FF.hEGEzAmif2PUdkry",
+   "devices": ["JEHN5465F583DEF2018C"],
+   "expiry": "27-09-2025 12:00 PM"
+},
 }
