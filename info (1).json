@@ -54,4 +54,9 @@
    "devices": ["RQTIFC1160E38C54E9A8AC"],
    "expiry": "26-07-2025 12:00 PM"
 },
+   "sedor": {
+   "password": "$2y$12$.jzrv9TxY9Nh.013gdIAwO1MghRaxYXyAwaaIyUDkFXb.M17lWJpe",
+   "devices": ["RQTIFC1160E38C54E9A8C","RQTIFC1160E38C54E9A8AC"],
+   "expiry": "26-07-2025 12:00 PM"
+},
 }
