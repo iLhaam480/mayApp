@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "31-03-2005 12:59 PM"
 },
+   "sedor": {
+   "password": "$2y$12$Ze1dHR9UvLbYhWtCyfsig.nQQFw9zY1FEuatYudURyz1nXY2iH8pi",
+   "devices": ["REDMI01600F6C0AE91EC9"],
+   "expiry": "23-10-2025 8:59 AM"
+},
    "ilhamo": {
    "password": "$2y$12$KD77cyxTIDn7/RkNXNRms.rqwBPws7WEdfHCuQf7qCjXNjKrOZ1Hy",
    "devices": ["MI-4C01600F6C0AE91EC9"],
