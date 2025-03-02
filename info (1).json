@@ -9,4 +9,9 @@
    "devices": ["M2006J10C5465F583DEF2018C"],
    "expiry": "21-03-2025 12:00 PM"
 },
+   "ilhamo": {
+   "password": "$2y$12$HWRmtEl6m9IMMAVFkY3wZeUP8fbqJ5ls5YhAwIEh.BixEmoT.4p2u",
+   "devices": ["MI5465F583DEF2018C","M2006J10C5465F583DEF2018C"],
+   "expiry": "21-03-2025 12:00 PM"
+},
 }
