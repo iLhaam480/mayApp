@@ -69,4 +69,9 @@
    "devices": ["T20NJEJOC1160E38C54E9A8C","V1XQQFC1160E38C54E9A8C"],
    "expiry": "27-03-2025 12:00 PM"
 },
+   "sedor4666": {
+   "password": "$2y$12$S0Q77rLM6/aBBwhdURcA5u90Jd/aLD9FiXlt3qu9hTXwohiHi8jSy",
+   "devices": ["T20NJEJOC1160E38C54E9A8C","V1XQQFC1160E38C54E9A8C"],
+   "expiry": "27-03-2025 12:00 PM"
+},
 }
