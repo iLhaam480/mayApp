@@ -79,4 +79,9 @@
    "devices": ["T20NJEJOC1160E38C54E9A8C","REDMINOTE53BACB758E111DB34","V1XQQFC1160E38C54E9A8C"],
    "expiry": "27-03-2025 12:00 PM"
 },
+   "sapaio": {
+   "password": "$2y$12$jGskOCglXyi6YyoK6JFmwOW2H9H5hcMRykvlDY2Z3w/1kQHWN350G",
+   "devices": ["REDMINOTE53BACB758E111DB34"],
+   "expiry": "26-09-2025 12:00 PM"
+},
 }
