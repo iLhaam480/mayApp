@@ -49,4 +49,9 @@
    "devices": ["REDMINOTE5C1160E38C54E9A8C"],
    "expiry": "19-03-2025 12:00 PM"
 },
+   "sedor": {
+   "password": "$2y$12$TESXEX7lCV4NurodCYIvuuP1b5VLVhfdHxf.2K0rp9EzxdkAYjq9i",
+   "devices": ["RQTIFC1160E38C54E9A8AC"],
+   "expiry": "26-07-2025 12:00 PM"
+},
 }
