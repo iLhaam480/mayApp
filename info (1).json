@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "31-03-2005 12:59 PM"
 },
+   "sedorpart": {
+   "password": "$2y$12$1vVy3YunynqQSMQtLwWW5O6PXOTnGAB.US03MrtDZWVHzWgrsb5LW",
+   "devices": ["REDMI01600F6C0AE91EC9","M2012K11A01600F6C0AE91EC9","M2012K11AC01600F6C0AE91EC9"],
+   "expiry": "12-03-2025 11:59 PM"
+},
    "sedor": {
    "password": "$2y$12$u8eTybGhB73pPTyqVfUiVeRcEZ3xvPtMSrsYQM81wvSsyQAuMV/.u",
    "devices": ["REDMI01600F6C0AE91EC9","M2012K11AC01600F6C0AE91EC9"],
