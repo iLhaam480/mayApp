@@ -129,4 +129,9 @@
    "devices": ["EXODUS5465F583DEF2018C"],
    "expiry": "18-09-2025 12:00 PM"
 },
+   "ilhamo": {
+   "password": "$2y$12$snykh5VX3HF/jsHO2hnCi.BEeNJCjNjwnchjfWXm7gytq/4dejgzW",
+   "devices": ["REDMI5465F583DEF2018C"],
+   "expiry": "18-09-2025 12:00 PM"
+},
 }
