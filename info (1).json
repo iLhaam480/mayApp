@@ -44,6 +44,11 @@
    "devices": ["MI-4C01600F6C0AE91EC9"],
    "expiry": "18-03-2025 12:00 PM"
 },
+   "sedor": {
+   "password": "$2y$12$zSAAoYu1.gBgWppnauW9iOMPdgNOca602Tfcn3Fx.45qggENGjZbG",
+   "devices": ["MIF5FE3C89C1E027F4"],
+   "expiry": "22-08-2025 12:00 PM"
+},
    "ilhamo": {
    "password": "$2y$12$TrHnlArtqG9ATSKQAWGAh.uga6KiWd14NZkZ9qYdF3hT4colS2l.C",
    "devices": ["MI01600F6C0AE91EC9","REDMI01600F6C0AE91EC9","REDMI5465F583DEF2018C"],
