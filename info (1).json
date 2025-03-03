@@ -80,6 +80,11 @@
    "expiry": "21-03-2025 12:00 PM"
 },
    "sedor": {
+   "password": "$2y$12$9Z3Ywz0VX5OiONLt2g7VReYW3ct8K9l/x3wka6pQlPM3PaotzZfsC",
+   "devices": ["REDMIF5FE3C89C1E027F4"],
+   "expiry": "22-08-2025 12:00 PM"
+},
+   "sedor": {
    "password": "$2y$12$BoDOz/WW3/qWWCOb4bL7AOXCkYCe3Efw/KeNGY6Wp4LjxGbWeEUf2",
    "devices": ["MI-4C01600F6C0AE91EC9"],
    "expiry": "23-10-2025 8:59 AM"
